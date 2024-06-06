@@ -10,3 +10,7 @@ All the old glitches are back, same goes for the balancing. Or lack thereof.
 As an added bonus you can play with friends and kick ass (including each others' asses), as well as go solo and tell the bots to suck it. And yes, they'll do the same to you. Not all games have to be easy.
 
 Are you waiting for something? No? Then grab the fucking controller and haul ass!
+
+
+# SOURCE CODE WILL COME LATER. DON'T BE A FAGGOT
+![Image of a faggot](https://github.com/CrazyCSIW6/iw4c6-raw/assets/51261276/896df0e6-9ea7-46af-88ba-2d7022897622)
