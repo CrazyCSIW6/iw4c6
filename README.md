@@ -12,5 +12,5 @@ As an added bonus you can play with friends and kick ass (including each others'
 Are you waiting for something? No? Then grab the fucking controller and haul ass!
 
 
-# SOURCE CODE WILL COME LATER. DON'T BE A FAGGOT
+# SOURCE CODE WILL COME LATER. DON'T SAY SHIT LIKE THIS
 ![Image of a faggot](https://github.com/CrazyCSIW6/iw4c6-raw/assets/51261276/896df0e6-9ea7-46af-88ba-2d7022897622)
