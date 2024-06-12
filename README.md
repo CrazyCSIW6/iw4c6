@@ -12,7 +12,6 @@ As an added bonus you can play with friends and kick ass (including each others'
 Are you waiting for something? No? Then grab the fucking controller and haul ass!
 
 # Screenshots
-![image](https://github.com/CrazyCSIW6/iw4c6/assets/51261276/bee9a165-8c70-4f16-9593-cf7752ecc895)
-![image](https://github.com/CrazyCSIW6/iw4c6/assets/51261276/9be9776c-b293-4c84-a2fc-984a36a40207)
-![Modern Warfare 2 Multiplayer 12_06_2024 7_15_58 PM](https://github.com/CrazyCSIW6/iw4c6/assets/51261276/1606dde4-c657-4f2f-a96c-36c73132963a)
-![image](https://github.com/CrazyCSIW6/iw4c6/assets/51261276/98357b70-5e19-4e8e-84ae-d2b725eca5b0)
+![Main menu](https://github.com/CrazyCSIW6/iw4c6/assets/51261276/bee9a165-8c70-4f16-9593-cf7752ecc895)
+![I suck](https://github.com/CrazyCSIW6/iw4c6/assets/51261276/9be9776c-b293-4c84-a2fc-984a36a40207)
+![Noob tube time](https://github.com/CrazyCSIW6/iw4c6/assets/51261276/98357b70-5e19-4e8e-84ae-d2b725eca5b0)
